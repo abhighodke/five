@@ -1,37 +1,31 @@
 // src/clientData.js
 const clientData = {
-    headerInitials: "SK", // Header Initials
-    heroTagline: "Stanley King Group", // Hero Tagline
-    agentName: "Stanley King",
-    aboutMeShort: "Your Expert Broker for: Homes, Investment Properties, First Time Home Buyers, Job Transfers, Luxury Estates, Fund Acquisitions, Flips, Land, Probate Sales, Commercial Real Estate Referrals, Out of State Referrals.", // AboutMe Short Description
-    aboutMeDetailed: `In today’s real estate market it pays dividends to work with a skilled real estate professional you respect and trust. I provide the absolute best service possible to my clients. Whether you want to buy your dream home or your first home I will help you close the deal. If you are looking to sell your home I will get you the best price possible in the least amount of time. As well, if you are looking to buy or sell investment property I’m your agent to get the job done.
+    headerInitials: "SS",
+    heroTagline: "Sunday Stephens Realty",
+    agentName: "Sunday Stephens",
+    aboutMeShort: "I specialize in finding perfect homes for buyers and sellers, including investors and veterans. My expertise and dedication to exceptional service guide you to the best decisions. Let's find your ideal home together.",
+    aboutMeDetailed: `It is my passion to assist clients with reaching their goal of owning a home or selling their current home to find a new one. It is important to me that my clients find the ideal home to match their needs and their budget. Also, I have helped many investors find the perfect property to complete their investment portfolio. 
 
-My commitment to you is a hassle-free and successful transaction. My ultimate goal is to have you refer me to your friends, family, and associates. Please know that I don’t measure success through achievements or awards, but through how satisfied my clients are.
+With my knowledge and experience I provide my clients accurate and complete detailed information so they can make the best decisions. Also, with being certified to help our Veterans and their families in finding a home and utilizing their full VA eligibility. Allow me to assist you with your real estate needs.
 
-To get the job done right I utilize the latest technologies, market research, communication tools, and proven business strategies. More importantly, I ask questions and listen to you so that we find the best solutions for your needs.
-
-You have found your Realtor. Give me a ring today and let’s get the job done right. I appreciate the opportunity to work with you now and in the future.`, // AboutMe Detailed Description
-    testimonials: [
-        { quote: "Working with Stanley was a game-changer for us. Her deep knowledge of the New York market and personalized approach made finding our dream home effortless. Highly recommended for anyone seeking a top-notch real estate experience.", author: "John and Emily R." },
-        { quote: "Stanley King Realty provided exceptional service from start to finish. The team’s professionalism and attention to detail ensured that our property sale was smooth and successful. We couldn’t have asked for a better partner in real estate.", author: "Michael S." },
-        { quote: "The dedication and expertise of Stanley were evident throughout our home-buying journey. Her ability to understand our needs and navigate the competitive market made the process enjoyable and stress-free. We are thrilled with our new home!", author: "Sarah and David L." },
-        { quote: "Stanley and her team are truly outstanding. Their market knowledge, responsiveness, and client-focused approach set them apart. We have bought and sold multiple properties with them, and each experience has been exceptional.", author: "Jessica and Mark T." },
-        { quote: "If you’re looking for a real estate agent who goes above and beyond, Stanley King is the one. Her dedication to finding the perfect property and ensuring a smooth transaction is unmatched. We are incredibly satisfied with the service we received.", author: "Laura K." }
-    ], // Testimonials
-    footerTagline: "Your Trusted Partner in Luxury Real Estate", // Footer Tagline
-    email: "stanley.king@exprealty.com", // Email
-    address: "10845 W Griffith Peak Dr. #2, Las Vegas, NV, United States, 89135", // Address
-    phone: "702-408-6220", // Phone Number
-    footerDescription: "Stanley King Realty is committed to delivering the highest standard of real estate services. Whether you're buying, selling, or investing in luxury properties, we offer unparalleled expertise and a personalized approach to meet your needs.", // Footer Description
+Customer Service excellence is our Passion!`,
+    testimonials: [{"quote": "Working with Sunday Stephens was a game-changer for us. Her deep knowledge of the New York market and personalized approach made finding our dream home effortless. Highly recommended for anyone seeking a top-notch real estate experience.", "author": "John and Emily R."}, {"quote": "Sunday Stephens provided exceptional service from start to finish. The teams professionalism and attention to detail ensured that our property sale was smooth and successful. We could not have asked for a better partner in real estate.", "author": "Michael S."}, {"quote": "The dedication and expertise of Sunday Stephens were evident throughout our home-buying journey. Her ability to understand our needs and navigate the competitive market made the process enjoyable and stress-free. We are thrilled with our new home!", "author": "Sarah and David L."}, {"quote": "Sunday Stephens and Her team are truly outstanding. Their market knowledge, responsiveness, and client-focused approach set them apart. We have bought and sold multiple properties with them, and each experience has been exceptional.", "author": "Jessica and Mark T."}, {"quote": "If you are looking for a real estate agent who goes above and beyond, Sunday Stephens is the one. Her dedication to finding the perfect property and ensuring a smooth transaction is unmatched. We are incredibly satisfied with the service we received.", "author": "Laura K."}],
+    footerTagline: "Your Trusted Partner in Luxury Real Estate",
+    email: "",
+    address: "240 Applegate Pkwy \nPelham, AL 35124",
+    phone: "205.914.9460",
+    footerDescription: `Sunday Stephens Realty is committed to delivering the highest standard of real estate services. Whether you're buying, selling, or investing in luxury properties, we offer unparalleled expertise and a personalized approach to meet your needs.`,
     socialMediaLinks: {
-        facebook: "",
+        facebook: "https://www.facebook.com/sunday.stephens.98/",
         Instagram: "",
         linkedin: "",
-    }, // Social Media Links
+    },
     contactDetails: {
-        email: "stanley.king@exprealty.com",
-        phone: "702-408-6220",
-    }, // Contact Details
+        email: "",
+        phone: "205.914.9460",
+    },
+    website: "",
+    dp: "https://content.mediastg.net/dynamic/RealEstate/company/646/account/593902/593902_03092022182421.jpg" // Agent image URL
 };
 
 export default clientData;
